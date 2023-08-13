@@ -3,8 +3,7 @@
 Common Lisp CFFI interface for libtcod, the roguelike library (fork for latest libtcod)
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/podiki/cl-tcod.git   |
-| commit  | 0ec045f  |
-| systems | cl-tcod |
+| source  | git:https://github.com/podiki/cl-tcod.git |
+| commit  | 0ec045f                                   |
+| systems | (tcod parse-rgb)                          |
 |---------+-------------------------------------------|
-
